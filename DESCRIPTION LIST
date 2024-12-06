@@ -1,0 +1,19 @@
+<html>
+<head>
+  <title>Description List</title>
+</head>
+<body>
+
+<dl>
+  <dt>HTML</dt>
+  <dd>HYPER TEXT MARKUP LANGUAGE</dd>
+
+  <dt>CSS</dt>
+  <dd>CASCADING STYLE SHEETS</dd>
+
+  <dt>JS/dt>
+  <dd>JAVASCRIPT</dd>
+</dl>
+
+</body>
+</html>
