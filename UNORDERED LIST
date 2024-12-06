@@ -1,0 +1,31 @@
+#
+<html>
+      <head>
+      </head>
+      
+      <body>
+      <h1>UNORDERED LIST</h1>
+      <ul type="disc">
+        <li>ORDERED LIST</li>
+        <li>UNORDERED LIST</li>
+        <li>DEFINITION LIST</li>
+      </ul>
+      <ul type="circle">
+        <li>BCA</li>
+        <li>MCA</li>
+        <li>IMSCIT</li>
+      </ul>
+      <ul type="square">
+        <li>BBA</li>
+        <li>B.TECH</li>
+        <li>M.TECH</li>
+      </ul>
+      <ul type="none">
+        <li>GREEN</li>
+        <li>RED</li>
+        <li>BLUE</li>
+        <li>WHITE</li>
+        <li>BLACK</li>
+      </ul>
+      </body>
+</html>
